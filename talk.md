@@ -59,7 +59,7 @@ data read from phone (physical access)
 * encrypt your data
 * turn off USB debugging when you're not using it
 * lock screen
-* remote wipe
+* remote wipe, prey app
 
 ----------
 
@@ -68,6 +68,7 @@ location tracking
 
 * apps
     * cyanogenmod and privacy guard
+    * xprivacy can give fake location to apps
 * wifi/mac address tracking
     * smarter wifi manager
 
@@ -99,8 +100,17 @@ browser privacy
 messaging privacy
 ---------
 
-* TextSecure
 * Redphone
+* TextSecure
+* SMSSecure - FLOSS copy of version 1 of TextSecure
+* k-9 mail can do PGP encrypted email
+
+---------
+
+other guides
+---------
+
+EFF Surveillance Self Defence https://ssd.eff.org/
 
 ---------
 

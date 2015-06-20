@@ -9,6 +9,3 @@ The plan is to talk about:
 * what tools are available to manage the threats
 
 and then split up and start installing, setting up and using those tools
-
-Threats
--------

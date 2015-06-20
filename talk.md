@@ -1,6 +1,10 @@
 Phone Security
 ==============
 
+---------
+
+![photobomb dog 1](img/Photobomb_dog1.jpg)
+
 ----------
 
 Threats
@@ -16,6 +20,10 @@ Threats
     * eavesdropping on open wifi
     * websites tracking you
 * messaging privacy
+
+---------
+
+![photobomb dog 2](img/Photobomb_dog2.jpg)
 
 ----------
 
@@ -38,6 +46,10 @@ Tools
 - mybackup pro
 
 others?
+
+---------
+
+![photobomb dog 3](img/Photobomb_dog3.jpg)
 
 ----------
 
@@ -89,6 +101,10 @@ messaging privacy
 
 * TextSecure
 * Redphone
+
+---------
+
+![photobomb dog 4](img/Photobomb_dog4.jpg)
 
 ----------
 

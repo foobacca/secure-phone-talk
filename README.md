@@ -12,3 +12,7 @@ mdpress -r talk.md
 `mdpress -r` will compile the presentation and open it in your browser.  You can then make it full screen and press space to go through the slides.
 
 While [notes.md](notes.md) contains notes not shown on screen.
+
+## License
+
+This is licensed under [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/) - use and reuse freely :)
